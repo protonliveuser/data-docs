@@ -1,0 +1,213 @@
+<?xml-stylesheet href="/StyleSheets/atom.css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<id>https://www.w3.org/Style/CSS/software.atom</id>
+<title>CSS software</title>
+<updated>2023-07-24T00:00:00Z</updated>
+<link href="https://www.w3.org/Style/CSS/software.en.html" />
+<link rel="self" href="https://www.w3.org/Style/CSS/software.atom" />
+<author><name>W3C</name></author>
+
+<entry>
+<title>Antenna House has released AH Formatter V7.3. It supports fo…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m71" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m71</id>
+<updated>2023-07-24T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2023-07-24</span> <a href="http://www.antennahouse.com/">Antenna House</a> has released AH
+Formatter V7.3. It supports formatting and rendering of documents using
+CSS for Paged Media. It includes supports for HTML, SVG and MathML.
+Complete standard conformance information as well as a comprehensive
+feature list can be found on the <a href="https://www.antennahouse.com/formatter-v7" title="AH      Formatter V7.3">product page</a>.</div>
+</content>
+</entry>
+
+<entry>
+<title>RealObjects released PDFreactor version 11.4.8, an HTML-to-P…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m70" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m70</id>
+<updated>2022-07-07T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2022-07-07</span> <a href="http://www.realobjects.com/">RealObjects</a> released <a href="http://www.pdfreactor.com/">PDFreactor</a> version 11.4.8, an
+HTML-to-PDF (and XML-to-PDF) formatter that runs either as a Web service
+or as a command line tool. It is also available as a Java library. It
+has support for, among other things, CSS Transforms, CSS Regions, Web
+Fonts, and running elements. Other features include support for HTML5,
+MathML, SVG, XSLT, JavaScript, PDF/A and accessible PDF. Version 11
+adds, among other things, support for CSS grid, page floats, custom
+counter styles and OpenType ligatures. (Java. Free demo version.)</div>
+</content>
+</entry>
+
+<entry>
+<title>BFO released Big Faceless Report Generator version 1.1.70, a…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m67" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m67</id>
+<updated>2019-09-30T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2019-09-30</span> <a href="https://bfo.com/">BFO</a> released <a href="https://bfo.com/products/report/">Big Faceless Report Generator</a> version 1.1.70, an XML-to-PDF converter that uses CSS (level 2) for
+styling. It has its own XML vocabulary for making graphs. Can also be
+used as a Java servlet or as a library inside Java programs. Output can
+optionally be in PDF/A or PDF/UA.</div>
+</content>
+</entry>
+
+<entry>
+<title>Kozea published Weasyprint version 43, a converter from HTML…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m65" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m65</id>
+<updated>2018-11-12T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2018-11-12</span> Kozea published <a href="http://weasyprint.org/">Weasyprint</a> version 43, a converter
+from HTML + CSS to PDF. (Open Source, Python)</div>
+</content>
+</entry>
+
+<entry>
+<title>Daniel Glazman of Disruptive Innovations released version 3.…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#e70" />
+<id>https://www.w3.org/Style/CSS/software.en.html#e70</id>
+<updated>2017-11-22T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2017-11-22</span> <a href="http://www.glazman.org/weblog/dotclear/index.php?">Daniel
+Glazman</a> of <a href="http://disruptive-innovations.com/">Disruptive
+Innovations</a> released version 3.01 of <a href="http://bluegriffon.org/">BlueGriffon,</a> a WYSIWYG Web editor
+with support for HTML, MathML, SVG and CSS (full level 2 and parts of
+level 3). Paying versions add additional functions, such as EPUB
+creation, predefined templates, HTTP PUT support, visual CSS editor,
+MathML editor, project manager and responsive design mode. (Linux,
+Windows, Mac; Open Source)</div>
+</content>
+</entry>
+
+<entry>
+<title>AI Internet Solutions released version 16 of CSE HTML Valida…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#e69" />
+<id>https://www.w3.org/Style/CSS/software.en.html#e69</id>
+<updated>2016-10-18T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2016-10-18</span> AI Internet
+Solutions released version 16 of CSE HTML Validator, an HTML editor that
+validates HTML, CSS and/or PHP code, with integrated syntax checker,
+spell checker, link checker, accessibility checker, SEO and more.
+(Windows, free ‘Lite’ version, Standard/Pro/Enterprise versions with
+free trial)</div>
+</content>
+</entry>
+
+<entry>
+<title>CodeLobster publishes the CodeLobster PHP Edition version 5.…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#e67" />
+<id>https://www.w3.org/Style/CSS/software.en.html#e67</id>
+<updated>2016-01-18T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2016-01-18</span> <a href="http://www.codelobster.com/">CodeLobster</a> publishes the
+CodeLobster PHP Edition version 5.8.1, an <abbr title="Integrated      Development Environment">IDE</abbr> for HTML,
+CSS, PHP and JavaScript, with code highlighting, debugger,
+auto-complete, etc., and built-in support for several <abbr title="Content      Management Systems">CMS</abbr>'es (SVN, Git, SASS,
+LESS, Drupal, Joomla, Wordpress, Symfony, etc.). (Windows; free version
+(without CMS support), Lite version and Professional version)</div>
+</content>
+</entry>
+
+<entry>
+<title>shakespeare is a Haskell library that provides a template sy…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m59" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m59</id>
+<updated>2015-10-21T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2015-10-21</span> <a href="http://hackage.haskell.org/package/shakespeare">shakespeare</a> is
+a Haskell library that provides a template system for generating CSS
+style sheets (and other types of files). (Open Source)</div>
+</content>
+</entry>
+
+<entry>
+<title>cssmin is a CSS “minifier” as a Ruby library. (Ruby. Open So…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m56" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m56</id>
+<updated>2015-10-21T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2015-10-21</span> <a href="https://github.com/rgrove/cssmin">cssmin</a> is a CSS “minifier”
+as a Ruby library. (Ruby. Open Source)</div>
+</content>
+</entry>
+
+<entry>
+<title>clean-css is a “minifier” for CSS files (written in JavaScri…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m55" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m55</id>
+<updated>2015-10-21T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2015-10-21</span> <a href="https://github.com/jakubpawlowicz/clean-css">clean-css</a> is a
+“minifier” for CSS files (written in JavaScript, requires node.js) (Open
+Source)</div>
+</content>
+</entry>
+
+<entry>
+<title>SyncRO Soft released version 17.1 of the &lt;oXygen/&gt; XML…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#e68" />
+<id>https://www.w3.org/Style/CSS/software.en.html#e68</id>
+<updated>2015-10-21T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2015-10-21</span> SyncRO Soft
+released version 17.1 of the <a href="http://www.oxygenxml.com/">
+&lt;oXygen/&gt; XML Editor</a> with improved support for CSS, <a href="http://dita.xml.org/">DITA 1.3,</a> <a href="https://www.oasis-open.org/standards#xliffv2.0">XLIFF 2.0</a> and
+more. It supports CSS (WYSIWYG editing), XSL-FO, XSLT, XQuery, various
+XML- or XHTML-based formats (such as EPUB, TEI, DocBook and DITA) and
+also has an SVG viewer. (Runs on Java and/or Eclipse platforms, free
+trial.)</div>
+</content>
+</entry>
+
+<entry>
+<title>CSSTidy can do some rewriting on CSS style sheets, to “minif…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m57" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m57</id>
+<updated>2015-10-21T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2015-10-21</span> <a href="http://csstidy.sourceforge.net/">CSSTidy</a> can do some rewriting
+on CSS style sheets, to “minify” them, rewrite longhand properties as
+shorthands, remove indentation, etc. (PHP or C++. Open Source)</div>
+</content>
+</entry>
+
+<entry>
+<title>CSSOM.js is a CSS parser written in JavaScript. (Open Source…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m60" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m60</id>
+<updated>2015-10-21T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2015-10-21</span> <a href="https://github.com/NV/CSSOM">CSSOM.js</a> is a CSS parser written
+in JavaScript. (Open Source)</div>
+</content>
+</entry>
+
+<entry>
+<title>CSS.pm is an object-oriented Perl library for reading, writi…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m58" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m58</id>
+<updated>2015-10-21T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2015-10-21</span> <a href="http://search.cpan.org/dist/CSS/">CSS.pm</a> is an object-oriented
+Perl library for reading, writing and manipulating CSS style sheets.
+(Open Source.) There are many more CSS-related Perl modules, see <a href="http://search.cpan.org/search?query=css&amp;mode=all">search on
+CPAN.</a></div>
+</content>
+</entry>
+
+<entry>
+<title>Expected Behavior offers DocRaptor, an online service for cr…</title>
+<link href="https://www.w3.org/Style/CSS/software.en.html#m54" />
+<id>https://www.w3.org/Style/CSS/software.en.html#m54</id>
+<updated>2015-03-18T00:00:00Z</updated>
+<content type="xhtml">
+<div><span class="updated">2015-03-18</span> Expected Behavior
+offers <a href="http://docraptor.com/">DocRaptor,</a> an online service
+for creating PDF or XLS (Microsoft Excel spreadsheet) from HTML+CSS
+documents. The PDF service uses <a href="http://www.princexml.com/">Prince</a> for rendering. The XLS service converts HTML tables,
+optionally styled with CSS, to Excel spreadsheets. (Free trial)</div>
+</content>
+</entry>
+
+</feed>
